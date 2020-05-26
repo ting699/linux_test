@@ -1,0 +1,2 @@
+work to buffer
+buf to local
